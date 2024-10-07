@@ -34,3 +34,5 @@ All the funny things you'd only hear at work
 30. We need to spread our tribal knowledge
 31. We have a single point of failure
 32. We'll need to pivot here
+33. Can I please get a quick review of this PR?
+34. LGTM 👍

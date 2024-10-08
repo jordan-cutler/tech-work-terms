@@ -36,3 +36,7 @@ All the funny things you'd only hear at work
 32. We'll need to pivot here
 33. Can I please get a quick review of this PR?
 34. LGTM 👍
+35. Let's save that for a polish phase
+36. Can we tackle this next?
+37. Do you see my screen?
+38. Are there any low-hanging fruit left?

@@ -40,3 +40,5 @@ All the funny things you'd only hear at work
 36. Can we tackle this next?
 37. Do you see my screen?
 38. Are there any low-hanging fruit left?
+39. Let's put a pin in that.
+40. Let's focus on driving more engagement at the top of the funnel.

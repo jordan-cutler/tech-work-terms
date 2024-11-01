@@ -42,3 +42,4 @@ All the funny things you'd only hear at work
 38. Are there any low-hanging fruit left?
 39. Let's put a pin in that.
 40. Let's focus on driving more engagement at the top of the funnel.
+41. Let's play it by ear

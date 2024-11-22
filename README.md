@@ -43,3 +43,5 @@ All the funny things you'd only hear at work
 39. Let's put a pin in that.
 40. Let's focus on driving more engagement at the top of the funnel.
 41. Let's play it by ear
+42. It's an interative process
+43. It's a fast-moving space

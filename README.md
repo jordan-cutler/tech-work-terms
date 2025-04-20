@@ -47,7 +47,7 @@ All the funny things you'd only hear at work
 43. It's a fast-moving space
 44. I'm committing this change so that you can locally test my work
 45. The test is flakey
-46. Let the feature bake before ramping to 25/25
+46. Let the feature bake for a week before ramping to 25/25 (variant could be "let the feature bake before rolling it out more broadly")
 47. Did you gate the feature behind a decider?
 48. Can you create an excalidraw to illustrate the system?
 49. That's a non-blocking issue
@@ -59,3 +59,6 @@ All the funny things you'd only hear at work
 55. Let's gamify the experience
 56. Can you share a TDD for this work?
 57. Where's the Confluence page for how to setup X?
+58. The p99 latency of our service is increasing
+59. bumpity bump on my PR (after getting ghosted on a PR review)
+60. What's the SLA for X team to respond to my question?

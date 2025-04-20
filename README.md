@@ -45,3 +45,17 @@ All the funny things you'd only hear at work
 41. Let's play it by ear
 42. It's an interactive process
 43. It's a fast-moving space
+44. I'm committing this change so that you can locally test my work
+45. The test is flakey
+46. Let the feature bake before ramping to 25/25
+47. Did you gate the feature behind a decider?
+48. Can you create an excalidraw to illustrate the system?
+49. That's a non-blocking issue
+50. Is this a P0?
+51. This is just the happy path
+52. Can you rubber duck this with me?
+53. Let's rebase this PR
+54. It's a cold start issue
+55. Let's gamify the experience
+56. Can you share a TDD for this work?
+57. Where's the Confluence page for how to setup X?

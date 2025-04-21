@@ -45,20 +45,14 @@ All the funny things you'd only hear at work
 41. Let's play it by ear
 42. It's an interactive process
 43. It's a fast-moving space
-44. I'm committing this change so that you can locally test my work
 45. The test is flakey
-46. Let the feature bake for a week before ramping to 25/25 (variant could be "let the feature bake before rolling it out more broadly")
+46. Let the feature bake for a week
 47. Did you gate the feature behind a decider?
-48. Can you create an excalidraw to illustrate the system?
-49. That's a non-blocking issue
-50. Is this a P0?
-51. This is just the happy path
-52. Can you rubber duck this with me?
-53. Let's rebase this PR
-54. It's a cold start issue
-55. Let's gamify the experience
-56. Can you share a TDD for this work?
-57. Where's the Confluence page for how to setup X?
-58. The p99 latency of our service is increasing
-59. bumpity bump on my PR (after getting ghosted on a PR review)
-60. What's the SLA for X team to respond to my question?
+48. That's non-blocking
+49. Is this a P0?
+50. This is just the happy path
+51. Can you rubber duck this with me?
+52. Let's gamify the experience
+53. Is there a doc for that?
+54. bumpity bump on my PR (after getting ghosted on a PR review)
+55. What's the SLA for that?

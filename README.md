@@ -45,3 +45,14 @@ All the funny things you'd only hear at work
 41. Let's play it by ear
 42. It's an interactive process
 43. It's a fast-moving space
+45. The test is flakey
+46. Let the feature bake for a week
+47. Did you gate the feature behind a decider?
+48. That's non-blocking
+49. Is this a P0?
+50. This is just the happy path
+51. Can you rubber duck this with me?
+52. Let's gamify the experience
+53. Is there a doc for that?
+54. bumpity bump on my PR (after getting ghosted on a PR review)
+55. What's the SLA for that?
